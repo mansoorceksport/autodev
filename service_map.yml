@@ -1,0 +1,2 @@
+auth: git@github.com/myorg/auth.git
+payments: git@github.com/myorg/payments.git

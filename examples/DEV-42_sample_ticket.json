@@ -1,0 +1,1 @@
+{ "ticket_id": "DEV-42", "summary": "Add login endpoint", "description": "Create a new POST /login endpoint that accepts email and password." }
